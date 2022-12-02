@@ -17,4 +17,4 @@ Here: Take a look!
 
 
 [
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRC-Loop&langs_count=16&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellar-code-github&langs_count=16&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
