@@ -1,16 +1,18 @@
-### Hi there 👋
+![Alt](http://www.legendcube.de/hotfile/logo-s-only-1024-1024-Original.png =256x256)
+## Stellar Code
+### Software for everyone.
 
-<!--
-**stellar-code-github/stellar-code-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Our Projects:
+- NextNotes
+An Notes Addon for Nextcloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- StellarNotepad
+A Nice little Notepad for Windows
+
+
+## Coding
+What Languages we use?
+Here: Take a look!
+[
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRC-Loop&langs_count=16&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
