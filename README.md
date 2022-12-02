@@ -1,4 +1,4 @@
-![Alt](http://www.legendcube.de/hotfile/logo-s-only-1024-1024-Original.png =256x256)
+![Alt](http://www.legendcube.de/hotfile/logo-s-only-1024-1024-Original.png=256x256)
 ## Stellar Code
 ### Software for everyone.
 
